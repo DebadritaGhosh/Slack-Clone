@@ -1,0 +1,12 @@
+body {
+  --slack-color: #3f0f40;
+  --green: #0a8d48;
+  --white-color: #ffffff;
+  --dark-green: green;
+  --lightgray-light: #f8f8f8f8;
+}
+
+.app__body {
+  display: flex;
+  height: 100vh;
+}
